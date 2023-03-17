@@ -42,6 +42,6 @@
 
 [![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ornob011&theme=react-dark)](https://github.com/ornob011/github-readme-activity-graph)  
 
-![GitHub metrics](https://metrics.lecoq.io/ornob011)  
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ornob011&" alt="ornob011" /></p>
+
+![GitHub metrics](https://metrics.lecoq.io/ornob011)  

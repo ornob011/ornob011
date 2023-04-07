@@ -11,6 +11,12 @@
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
+	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/covidexpert-a-triplet-siamese-neural-network/covid-19-diagnosis-on-large-covid-19-ct-scan)](https://paperswithcode.com/sota/covid-19-diagnosis-on-large-covid-19-ct-scan?p=covidexpert-a-triplet-siamese-neural-network)
+
+	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/covidexpert-a-triplet-siamese-neural-network/few-shot-learning-on-large-covid-19-ct-scan)](https://paperswithcode.com/sota/few-shot-learning-on-large-covid-19-ct-scan?p=covidexpert-a-triplet-siamese-neural-network)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ornob011" alt="ornob011" /></a> </p>
 

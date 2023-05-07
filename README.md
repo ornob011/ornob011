@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ezgif.com-video-to-gif.gif">
+  <img src="assets/ezgif-compressed.gif">
 </p>
 
 <h1 align="center">Hi there 👋, My name is Ornob.</h1>

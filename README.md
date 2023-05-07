@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/ezgif-compressed.gif">
+  <img src="https://thumbs.gfycat.com/TestyDisloyalChinchilla-size_restricted.gif">
 </p>
+
 
 <h1 align="center">Hi there 👋, My name is Ornob.</h1>
 <h3 align="center">A Machine Learning Researcher and Java Developer</h3>
